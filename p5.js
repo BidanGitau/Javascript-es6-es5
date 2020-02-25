@@ -15,4 +15,5 @@ function Admin(username, email, title) {
 Admin.prototype = Object.create(Person);
 
 const user1 = new Person('mario', 'jackson');
+const user2 = new Admin('western', 'kkk', 'come on');
 const user2 = new Admin('weston', 'wario@gmail.ocm', 'Steal');
