@@ -1,1 +1,1 @@
-error file
+error <i class="fa fa-file-o" aria-hidden="true"></i>
